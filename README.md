@@ -1,4 +1,4 @@
-## NSFW Separator — Desktop app (Python)
+## NSFW Image Folder Filter — Desktop app (Python)
 
 A simple desktop utility that scans a folder of images and videos and separates NSFW content from normal media into separate folders. Features:
 
@@ -56,3 +56,4 @@ pyinstaller --onefile --windowed app/main.py
 ### License
 
 MIT
+
