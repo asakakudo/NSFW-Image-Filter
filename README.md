@@ -16,7 +16,7 @@ A simple desktop utility that scans a folder of images and videos and separates 
 1. Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/asakakudo/NSFW-Image-Filter.git
 cd nsfw-separator
 ```
 
@@ -56,4 +56,5 @@ pyinstaller --onefile --windowed app/main.py
 ### License
 
 MIT
+
 
