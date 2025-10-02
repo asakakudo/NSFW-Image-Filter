@@ -1,0 +1,9 @@
+{
+  "title": "NSFW Separator",
+  "select_folder": "Select Folder",
+  "start": "Start Scan",
+  "archive_zip": "Create ZIP after filter",
+  "status_idle": "Idle",
+  "scanning": "Scanning...",
+  "done": "Done"
+}

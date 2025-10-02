@@ -1,0 +1,9 @@
+{
+  "title": "Folder Filter NSFW",
+  "select_folder": "Pilih Folder",
+  "start": "Mulai Pindai",
+  "archive_zip": "Buat ZIP setelah filter",
+  "status_idle": "Siap",
+  "scanning": "Memindai...",
+  "done": "Selesai"
+}
